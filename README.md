@@ -31,7 +31,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
 ## 🚀 How to Run
 
 1. Open the notebook in **Google Colab**:  
-   [Open in Colab]([https://colab.research.google.com/drive/<YOUR_NOTEBOOK_ID>](https://colab.research.google.com/drive/19w_XJtBc30OFR0Y7y37gIHsntEvorNOA?usp=sharing))  
+   [Open in Colab](https://colab.research.google.com/drive/19w_XJtBc30OFR0Y7y37gIHsntEvorNOA?usp=sharing)  
 
 2. Run each cell sequentially to:
    - Load and preprocess MNIST data.
